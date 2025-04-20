@@ -1,7 +1,7 @@
 console.log("Main.js working");
 
 const populate = async (value, currency) => {
-  const url = `https://api.currencyapi.com/v3/latest?apikey=cur_live_wNrsC8sE1yFr41ABaAaRfeVjOD4Cn5YPy8iYL5d1&base_currency=${currency}`;
+  const url = `https://api.currencyapi.com/v3/latest?apikey=cur_live_evPKyVEHmOKrzr4o8TDrrV6p8d85z1OocG8ppCmv`;
   let myStr = "";
 
   try {
